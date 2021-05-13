@@ -1,0 +1,94 @@
+{
+  "cards": [
+    {
+      "img": "img/Spezial/SpezialMain.jpg",
+      "index": 1,
+      "favorites": 1,
+      "title": "Adidas кроссовки"
+    },
+    {
+      "img": "img/GelRocket/GelRocketMain.jpg",
+      "index": 2,
+      "favorites": 0,
+      "title": "Asics кроссовки"
+    },
+    {
+      "img": "img/Mizuno/MizunoMain.jpg",
+      "index": 3,
+      "favorites": 1,
+      "title": "Mizuno кроссовки"
+    },
+    {
+      "img": "img/MIzunoEzrun/MIzunoEzrunMain.jpg",
+      "index": 4,
+      "favorites": 0,
+      "title": "Mizuno кроссовки"
+    },
+    {
+      "img": "img/SputerEz/SpotterEzMain.jpg",
+      "index": 5,
+      "favorites": 1,
+      "title": "Sputer кроссовки"
+    },
+    {
+      "img": "img/Reebok/RebookMain.jpg",
+      "index": 6,
+      "favorites": 0,
+      "title": "Reebok кроссовки"
+    },
+    {
+      "img": "img/Shox/ShoxMain.jpg",
+      "index": 7,
+      "favorites": 1,
+      "title": "Shox кроссовки"
+    },
+    {
+      "img": "img/Big/BigMain.jpg",
+      "index": 8,
+      "favorites": 0,
+      "title": "Big Star кроссовки"
+    }
+  ],
+  "chouse": [
+    {
+      "indexChouse": 1,
+      "img1": "img/Spezial/Spezial.jpg",
+      "img2": "img/Spezial/Spezial1.jpg",
+      "img3": "img/Spezial/Spezial2.jpg",
+      "that": "Кроссовки Адидас Спешел Черные Белые",
+      "desc": "Кроссовки сделаны из качественных материалов. Подходят как для занятий спортом, бега, так и для повседневной носки.",
+      "descall": "Преимущества и особенности:",
+      "desc1": "Износостойкие",
+      "desc2": "Хорошая амортизация подошвы",
+      "desc3": "Привлекательный, стильный внешний вид"
+    },
+    {
+      "indexChouse": 2,
+      "img1": "img/GelRocket/GelRocket.jpg",
+      "img2": "img/GelRocket/GelRocket1.jpg",
+      "img3": "img/GelRocket/GelRocket2.jpg",
+      "that": "Кроссовки Asics Gel Rocket 9",
+      "desc": "Кроссовки Asics Gel Rocket 9 с улучшенным сцеплением отлично подойдут для волейболистов любительского уровня. Данная модель выполнена с минимальным количеством швов и накладок. Верх кроссовок обеспечивает воздухопроницаемость, а подошва обеспечивает стабильность и баланс.",
+      "descall": "Преимущества и особенности:",
+      "desc1": "Специальный вид силикона ASICS GEL в передней части подошвы компенсирует ударную нагрузку при приземлении.",
+      "desc2": "Вес мужской версии данной модели составляет 332 грамма.",
+      "desc3": "Верх выполнен из сетки Gill Mesh, которая, поглощая воздух, направляет его внутрь обуви для вентиляции и охлаждения"
+    }
+  ],
+  "requests": [
+    {
+      "Nickname": "tre",
+      "Email": "reer@mail.ru",
+      "Password": "tretre",
+      "repassword": "tretre",
+      "id": 1
+    },
+    {
+      "Nickname": "tre2",
+      "Email": "her@mail.ru",
+      "Password": "pohui",
+      "repassword": "pohui",
+      "id": 2
+    }
+  ]
+}
